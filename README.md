@@ -1,0 +1,1 @@
+Hello po, Sir Romark! Sir, nalagay ko po sa master, hindi po sa main. Dinelete ko po yung nasa main kasi manually ko po yun nilagay. Yung nasa master pa yung pinush ko from git bash. Thank you po and God bless.
